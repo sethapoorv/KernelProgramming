@@ -1,2 +1,2 @@
 # KernelProgramming
-This is a basic simple programme of loading a module into the kernel, printing followed by removing the module later on.
+These are programs for loading modules into the kernel, confirming, followed by removing the module later on from the kernel space.
